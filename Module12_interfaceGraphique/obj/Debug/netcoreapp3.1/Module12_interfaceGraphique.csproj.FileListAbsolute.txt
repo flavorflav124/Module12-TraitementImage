@@ -1,0 +1,16 @@
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\bin\Debug\netcoreapp3.1\Module12_interfaceGraphique.exe
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\bin\Debug\netcoreapp3.1\Module12_interfaceGraphique.deps.json
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\bin\Debug\netcoreapp3.1\Module12_interfaceGraphique.runtimeconfig.json
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\bin\Debug\netcoreapp3.1\Module12_interfaceGraphique.runtimeconfig.dev.json
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\bin\Debug\netcoreapp3.1\Module12_interfaceGraphique.dll
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\bin\Debug\netcoreapp3.1\Module12_interfaceGraphique.pdb
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.csprojAssemblyReference.cache
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.csproj.GenerateResource.cache
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.AssemblyInfoInputs.cache
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.AssemblyInfo.cs
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.csproj.CoreCompileInputs.cache
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.dll
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.pdb
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.genruntimeconfig.cache
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.Properties.Resources.resources
+E:\VS\Module12_interfaceGraphique\Module12_interfaceGraphique\obj\Debug\netcoreapp3.1\Module12_interfaceGraphique.EcranImage.resources

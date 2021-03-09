@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module12_interfaceGraphique", "Module12_interfaceGraphique\Module12_interfaceGraphique.csproj", "{508F01D5-65C6-415D-B164-21B2C630C1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508F01D5-65C6-415D-B164-21B2C630C1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508F01D5-65C6-415D-B164-21B2C630C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508F01D5-65C6-415D-B164-21B2C630C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508F01D5-65C6-415D-B164-21B2C630C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19D6D068-EF57-4638-90E5-E54B14C7115D}
+	EndGlobalSection
+EndGlobal
